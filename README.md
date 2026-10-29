@@ -32,8 +32,6 @@
 
 ✰ &nbsp; **Feel free to:** fork, learn from, and get inspired by these projects.
 
-✰ &nbsp; **Please don't:** repost my work as your own without giving credit.
-
 ✰ &nbsp; **Suggestions and constructive feedback are welcome!**
 
 ---
